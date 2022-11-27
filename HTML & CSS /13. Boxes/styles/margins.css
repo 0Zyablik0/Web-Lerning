@@ -1,0 +1,21 @@
+p {
+    width: 200px;
+    border: 2px solid #0088dd;
+    padding: 10px;
+}
+
+p.example {
+    margin: 20px;
+}
+
+p.example_1 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    margin-right: 78 px;
+}
+
+
+p.example_2 {
+    margin: 10px 20px 30px 40px
+}
