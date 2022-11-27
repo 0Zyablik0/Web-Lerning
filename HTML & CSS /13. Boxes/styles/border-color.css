@@ -1,0 +1,9 @@
+p.one {
+    border-style: dashed;
+    border-color:chocolate
+}
+
+p.two {
+    border-style: inset;
+    border-color: yellow green blue red
+}
