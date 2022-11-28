@@ -1,0 +1,32 @@
+
+div{
+    height: 350px;
+    width: 800px;
+    display: inline;
+    background-color: cadetblue;
+}
+p {
+    background-color: palevioletred;
+    height: 300px;
+    width: 200px;
+}
+
+p.one {
+    box-shadow: -5px -5px #777777;
+}
+
+p.two {
+    box-shadow: 5px 5px 5px #777777;
+}
+
+p.three {
+    box-shadow: 5px 5px 5px 5px #777777;
+}
+
+p.four {
+    box-shadow: 0 0 10px #777777;
+}
+
+p.five {
+    box-shadow:inset 0 0 10px #777777;
+}

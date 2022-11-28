@@ -1,0 +1,25 @@
+p {
+    width: 300px;
+    height: 200px;
+}
+
+p.one {
+    border: 10px solid transparent;
+    border-image: url("../images/border.jpeg");
+    border-image-slice: 50 50;
+    border-image-repeat: repeat;
+}
+
+p.two {
+    border: 10px solid transparent;
+    border-image: url("../images/border.jpeg");
+    border-image-slice: 50 50;
+    border-image-repeat: stretch;
+}
+
+p.three {
+    border: 10px solid transparent;
+    border-image: url("../images/border.jpeg");
+    border-image-slice: 50 50;
+    border-image-repeat: round;
+}
