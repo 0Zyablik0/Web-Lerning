@@ -1,0 +1,11 @@
+ul {
+    list-style: inside circle;
+    width: 100px;
+    background-color: aquamarine;
+}
+
+li {
+    margin: 10px 0px 0px 0px;
+    background-color: coral;
+    height: 100px;
+}

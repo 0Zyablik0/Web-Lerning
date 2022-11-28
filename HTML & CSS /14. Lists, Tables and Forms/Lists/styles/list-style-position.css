@@ -1,0 +1,13 @@
+ul{
+    width: 150px;
+}
+li {
+    margin: 10px;
+}
+ul.first {
+    list-style-position: outside;
+}
+
+ul.second {
+    list-style-position: inside;
+}

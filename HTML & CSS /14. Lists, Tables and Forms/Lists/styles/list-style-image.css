@@ -1,0 +1,6 @@
+ul {
+    list-style-image: url("../images/bullet.jpeg");
+}
+li {
+    margin: 10px 0px 0px 0px;
+}
