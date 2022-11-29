@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Bogista Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/Bogista-K7jWy.woff') format('woff');
+    }
+h1, h2 {
+    font-family: "Bogista Regular", serif;
+}
