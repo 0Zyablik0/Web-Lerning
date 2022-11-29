@@ -1,0 +1,9 @@
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+
+.credentials {
+    font-weight: bold;
+    word-spacing: 1em;
+}
