@@ -1,0 +1,45 @@
+body {
+    padding: 20px;
+}
+
+h1, h2, a {
+    font-weight: normal;
+    color: #0088dd;
+    margin: 0px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 250%;
+    text-shadow: 2px 2px 3px #666666;
+}
+
+h2 {
+    font-family: "Gill Sana", Arial, sans-serif;
+    font-size: 90%;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+
+p {
+    font-family: Arial, Verdana, sans-serif;
+    line-height: 1.4em;
+    color: #665544
+}
+
+p.intro::first-line{
+    font-weight: bold;
+}
+
+.credentials{
+    font-style: italic;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
