@@ -1,0 +1,16 @@
+fieldset {
+    width: 350px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    color: rgb(71, 9, 9);
+}
+legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    text-align: left;
+    text-transform: uppercase;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
