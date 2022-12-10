@@ -1,0 +1,24 @@
+body {
+    width: 750px;
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;
+}
+h1 {
+    background-color: #efefef;
+    padding: 10px;
+    top: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+p {
+    float: left;
+    width: 200px;
+    background-color: #efefef;
+    margin: 5px;
+    padding: 5px;
+}
+
+.clear {
+    clear: left;
+}
