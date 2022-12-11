@@ -1,0 +1,26 @@
+body {
+
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;
+}
+
+h1 {
+    padding: 10px;
+    top: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+
+.column1of2 {
+    float: left;
+    width: 620px;
+    margin: 10px;
+
+}
+.column2of2{
+    float: left;
+    width: 300px;
+    margin: 10px;
+}
+
