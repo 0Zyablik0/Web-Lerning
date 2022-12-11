@@ -1,0 +1,22 @@
+body {
+
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;
+}
+
+h1 {
+    padding: 10px;
+    top: 0px;
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+
+.column1of3, .column2of3, .column3of3 {
+    float: left;
+    width: 300px;
+    margin: 40px;
+    padding: 5px;
+    text-align: center;
+}
