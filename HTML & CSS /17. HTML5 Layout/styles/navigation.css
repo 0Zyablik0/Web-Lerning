@@ -1,0 +1,12 @@
+header {
+    background-color: green;
+}
+
+footer {
+    background-color: blue;
+}
+
+nav {
+    text-transform: uppercase;
+    background-color: red;
+}
