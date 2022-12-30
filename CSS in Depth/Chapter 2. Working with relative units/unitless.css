@@ -1,0 +1,11 @@
+:root {
+    width: 450px;
+}
+
+body {
+    line-height: 1.2;
+}
+
+.about-us {
+    font-size: 2em;
+}

@@ -1,0 +1,38 @@
+body {
+    font-size: 16px;
+}
+
+.padded {
+    font-size: 16px;
+    padding: 1em;
+    margin: 1em;
+    border: 1px solid;
+}
+
+div {
+    margin-top: 50px;
+}
+
+.box {
+    padding: 1em;
+    border-radius: 1em;
+    margin: 1em;
+    background-color: lightgrey;
+}
+
+.box-large {
+    font-size: 20px;
+}
+
+.slogan { 
+    padding: 1.2em; /*padding will be 1.2*font-size = 1.44em  */
+    font-size: 1.2em;
+    background-color: lightblue;
+}
+
+ul {
+    font-size: .8em;
+}
+ul ul {
+    font-size: 1em;
+}
