@@ -44,7 +44,7 @@ async def update_item(item_id: str, item: Item):
     return items[item_id]
 
 
-@app.patch("/items/{item_id}", 
+@app.patch("/items/{item_id}",
            response_model=Item,
            status_code=status.HTTP_200_OK,
            tags=["items", "patch"],
